@@ -14,7 +14,9 @@ This repository includes some links from our session "Securing your macOS Enviro
 
 #### Jamf Links
 - mSCP Extention Attributes: https://github.com/jordanburnette/mSCP_EAs
+- [Establishing Compliance Baselines with Compliance Editor](https://trusted.jamf.com/docs/establishing-compliance-baselines)
 - [Jamf Compliance Editor Documentation](https://cdn.document360.io/e5d71abd-07b9-46d0-8876-03cc9073df6b/Images/Documentation/Jamf%20Compliance%20Editor%20-%20User%20Guide%282%29.pdf?sv=2022-11-02&spr=https&st=2025-05-21T15%3A26%3A28Z&se=2025-05-21T15%3A36%3A28Z&sr=c&sp=r&sig=7ZBonbMXKxAohIjVm3OgZfubZC9hPBdBCQjKYFG19hA%3D)
   
 #### Other Useful Links
 - [Secure, Contain, Protect… Your Mac: Deploy mSCP with Intune](https://intuneirl.com/secure-contain-protect-your-data-deploy-mscp-with-intune/)
+- [How to use the Compliance Editor tool](https://intunestuff.com/2024/12/05/compliance-editor/)
